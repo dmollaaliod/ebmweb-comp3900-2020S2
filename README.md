@@ -10,6 +10,7 @@ Besides the files available in this repository, you need to obtain the following
 - `task8b_nnc_model_1024.data-00000-of-00002` (1.6GB)
 - `task8b_nnc_model_1024.data-00001-of-00002` (4MB)
 - `task8b_nnc_model_1024.index` (4KB)
+- `ebmweb_comp3900_dockerimage.tar.gz` (394MB)
 
 ## To run the server for the multisummariser
 ```
