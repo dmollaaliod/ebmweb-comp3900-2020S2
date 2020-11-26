@@ -1,0 +1,13 @@
+name: comp3900
+dependencies:
+  - python=3.8
+  - nltk
+  - scipy
+  - pip
+  - pip:
+    - tensorflow
+    - bottle
+    - sklearn
+    - transformers
+    - Bio
+    
